@@ -1,0 +1,63 @@
+html, body{
+  width : 100%;
+  height : 100%;
+  margin : 2px auto;
+  padding-bottom: 0px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #ECECEE;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+h3{
+  text-align: center;
+}
+
+.container_map{
+  display: grid;
+}
+
+.container_canvas{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 100px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+
+}
+
+#fullscreen{
+  display: none;
+  margin: 20px auto;
+  padding-bottom: 25px;
+  grid-column-start: 1;
+  grid-column-end: -1;
+}
+
+/* Building Viewer */
+.mapdiv{
+  width: 25%;
+  margin: inherit;
+}
+
+.mapdiv path {
+    fill: #3C3F44;
+    stroke: #838486;
+    stroke-width:1px;
+    transition: fill 0.3s;
+}
+
+
+.mapdiv :hover {
+    fill: #838486;
+}
+.mapdiv .col_orange{
+  fill: orange;
+}
+
+.mapdiv .col_green{
+  fill: green;
+}
