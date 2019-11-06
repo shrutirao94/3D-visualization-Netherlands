@@ -1,3 +1,5 @@
+[Visualization](https://event.cwi.nl/lsde/2018/results/group13/)
+
 # Description
 
 As part of the Masters course in Large Scale Data Engineering, our team (Arumoy Shome, Cees Portegies and I) developed a 3D model of all the buildings in the Netherlands. 
