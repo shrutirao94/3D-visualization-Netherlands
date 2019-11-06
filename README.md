@@ -13,7 +13,7 @@ The 3D point cloud data was masked and intersected with the kadaster 2D data, an
 In the resulting three.js WebGL visualization you can use the mouse scroll wheel to zoom (press S and move mouse to zoom if you do not have a scroll wheel). The most centric yellow tile contains the 3D model for the city of Amsterdam (displayed below the map).
 
 This directory contains the visualization code for the project. Simply open
-`mapviewer.html` in the browser and follow the onscreen instructions. You can also directly view the visualization (here)[https://event.cwi.nl/lsde/2018/results/group13/].
+`mapviewer.html` in the browser and follow the onscreen instructions. You can also directly view the visualization [here](https://event.cwi.nl/lsde/2018/results/group13/).
 
 ## Requirements
 
