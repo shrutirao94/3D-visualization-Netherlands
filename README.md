@@ -1,4 +1,10 @@
-[Visualization](https://event.cwi.nl/lsde/2018/results/group13/)
+
+# 3D View of Amsterdam (Centraal Region)
+<img src="https://github.com/shrutirao94/3D-visualization-Netherlands/blob/master/assets/Screenshot%202019-11-25%20at%2017.48.21.png" width="100%">
+
+# Zoomed in View
+![alt text](https://github.com/shrutirao94/3D-visualization-Netherlands/blob/master/assets/Screenshot%202019-11-25%20at%2017.56.20.png)
+
 
 # Description
 
@@ -13,7 +19,9 @@ The 3D point cloud data was masked and intersected with the kadaster 2D data, an
 In the resulting three.js WebGL visualization you can use the mouse scroll wheel to zoom (press S and move mouse to zoom if you do not have a scroll wheel). The most centric yellow tile contains the 3D model for the city of Amsterdam (displayed below the map).
 
 This directory contains the visualization code for the project. Simply open
-`mapviewer.html` in the browser and follow the onscreen instructions. You can also directly view the visualization [here](https://event.cwi.nl/lsde/2018/results/group13/).
+`mapviewer.html` in the browser and follow the onscreen instructions. 
+
+**You can also directly view the visualization [here](https://event.cwi.nl/lsde/2018/results/group13/).**
 
 ## Requirements
 
