@@ -10,7 +10,7 @@
 
 As part of the Masters course in Large Scale Data Engineering, our team (Arumoy Shome, Cees Portegies and I) developed a 3D model of all the buildings in the Netherlands. 
 
-The Actuale Hoogtekaart Nederland (AHN) is a 2TB point-cloud dataset, consisting of 3D points measured using LIDAR technology. LIDAR stands for Light Detection and Ranging - a remote sensing method that uses light in the form of a pulsed laser to measure ranges to the Earth, in the case of AHN taken from an airplane. 
+The Actuale Hoogtekaart Nederland (AHN) is a 8TB point-cloud dataset, consisting of 3D points measured using LIDAR technology. LIDAR stands for Light Detection and Ranging - a remote sensing method that uses light in the form of a pulsed laser to measure ranges to the Earth, in the case of AHN taken from an airplane. 
 
 We also used XML descriptions containing all Dutch addresses and 2D building plan polygons. We turned these 2D plans into 3D models, using the point cloud dataset.
 
